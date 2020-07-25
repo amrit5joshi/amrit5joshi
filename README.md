@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+## I hope you’re doing well. 👨‍💻
+### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  ― Martin Fowler ✔️✔️✔️
+
+✌️☕ !!! Best of luck !!! ☕✌️
+
+![](https://komarev.com/ghpvc/?username=amrit5joshi&color=f4d4ff) 
 
 <!--
 **amrit5joshi/amrit5joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
