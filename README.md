@@ -4,6 +4,8 @@
 
 ✌️☕ !!! Best of luck !!! ☕✌️
 
+## Here is my linkedin Id = https://www.linkedin.com/in/amritjoshi/
+
 ![](https://komarev.com/ghpvc/?username=amrit5joshi&color=f4d4ff) 
 
 <!--
