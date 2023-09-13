@@ -1,5 +1,5 @@
 # Hi there 👋
-## I hope you’re doing well. 👨‍💻
+## I dont have much projects here, because I get paid for the work I do (Cant put code here LOL). 👨‍💻
 ### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  ― Martin Fowler ✔️✔️✔️
 
 ✌️☕ !!! Best of luck !!! ☕✌️
